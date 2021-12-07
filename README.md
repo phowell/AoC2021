@@ -83,9 +83,9 @@ Both parts: 1.81
 
 ```
 Day 03
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 1.49
+Time part 2: 1.68
+Both parts: 3.17
 ```
 
 ```
